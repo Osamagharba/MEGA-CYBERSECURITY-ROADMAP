@@ -517,13 +517,9 @@ Start here:
 
 After Entry-Level, the next step is to choose a track based on interest and goals:
 
-- [Penetration Testing](#penetration-testing)
-- [SOC](#soc-analyst)
-- [Malware Analysis](#malware-analysis)
-- [Web Application Security](#web-application-security)
-- [Cloud Security](#cloud-security)
-- [Threat Hunting](#threat-hunting)
-- [DFIR](#incident-response-and-dfir)
+- [Penetration Testing](./intermediate-level/penetration-testing/)
+- [SOC](./intermediate-level/SOC/)
+- [Malware Analysis](./intermediate-level/malware-analysis/)
 
 ---
 
@@ -551,34 +547,3 @@ Cybersecurity is a huge field, but it is also one of the most practical and rewa
 Whether you are interested in defending systems, discovering vulnerabilities, analyzing malware, or hunting threats, the field has room for many different paths.
 
 The best way to succeed is to stay consistent, practice regularly, and build a strong foundation before moving into advanced topics.
-
----
-
-## Roadmap Navigation
-
-### Entry Level
-
-- [Entry Level Roadmap](entry-level/README.md)
-
-### Red Team
-
-- [Penetration Testing](#penetration-testing)
-- [Web Application Security](#web-application-security)
-- [Cloud Security](#cloud-security)
-- [Exploit Development](#exploit-development)
-- [Reverse Engineering](#reverse-engineering)
-- [Malware Analysis](#malware-analysis)
-- [Adversary Emulation](#adversary-emulation--red-team-operations)
-- [OSINT and Reconnaissance](#osint-and-reconnaissance)
-
-### Blue Team
-
-- [SOC Analyst](#soc-analyst)
-- [Threat Hunting](#threat-hunting)
-- [Incident Response and DFIR](#incident-response-and-dfir)
-- [Detection Engineering](#detection-engineering)
-- [Vulnerability Management](#vulnerability-management)
-- [Cloud Security Operations](#cloud-security-operations)
-- [IAM](#identity-and-access-management-iam)
-- [Security Engineering](#security-engineering)
-- [GRC](#governance-risk-and-compliance-grc)
